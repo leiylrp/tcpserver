@@ -1,0 +1,9 @@
+{
+  "ServerName"              : "NETWORK PROJECT",
+  "HOST"                    : "127.0.0.1",
+  "PORT"                    : 8888,
+  "WorkerPoolSize"          : 10,
+  "AllowMaxConn"            : 1000,
+  "AllowMaxDataPack"        : 4096,
+  "AllowMaxTaskQueue"       : 1024
+}
